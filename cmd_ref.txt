@@ -1,0 +1,14 @@
+2018-06-06
+1. git init
+2. git add file1.txt
+   git add file2.txt file3.txt
+   git commit -m "add 3 files"
+3. git status
+4. git diff
+5. git reset --hard commit_id
+   git reset --hard HEAD^
+6. git log
+7. git reflog
+8. git checkout -- readme.txt
+9. git reset HEAD readme.txt
+
